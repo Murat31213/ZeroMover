@@ -1,0 +1,14 @@
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\bin\Debug\net8.0\ZeroMover.exe
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\bin\Debug\net8.0\ZeroMover.deps.json
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\bin\Debug\net8.0\ZeroMover.runtimeconfig.json
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\bin\Debug\net8.0\ZeroMover.dll
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\bin\Debug\net8.0\ZeroMover.pdb
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\obj\Debug\net8.0\ZeroMover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\obj\Debug\net8.0\ZeroMover.AssemblyInfoInputs.cache
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\obj\Debug\net8.0\ZeroMover.AssemblyInfo.cs
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\obj\Debug\net8.0\ZeroMover.csproj.CoreCompileInputs.cache
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\obj\Debug\net8.0\ZeroMover.dll
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\obj\Debug\net8.0\refint\ZeroMover.dll
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\obj\Debug\net8.0\ZeroMover.pdb
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\obj\Debug\net8.0\ZeroMover.genruntimeconfig.cache
+C:\Users\Мурат\source\repos\ZeroMover\ZeroMover\obj\Debug\net8.0\ref\ZeroMover.dll
